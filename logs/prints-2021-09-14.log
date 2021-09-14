@@ -1,0 +1,7 @@
+14:31:37.695 [main] INFO  resources.BaseInitialize - login is sucessful
+14:31:57.970 [main] INFO  resources.BaseInitialize - driver is closed
+14:32:24.422 [main] INFO  resources.BaseInitialize - Driver is Initialized
+14:32:34.440 [main] INFO  resources.BaseInitialize - Navigated to Homepage
+14:32:59.202 [main] INFO  resources.BaseInitialize - Quiz is attempted
+14:33:33.463 [main] INFO  resources.BaseInitialize - login is sucessful
+14:33:56.904 [main] INFO  resources.BaseInitialize - course is selected
